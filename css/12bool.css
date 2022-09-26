@@ -134,7 +134,7 @@
 }
 
 /* md - screens */
-@media screen and (min-width: 565px) {
+@media screen and (min-width: 576px) {
     
     /* columns  */
     .col-md-1 {
@@ -248,7 +248,7 @@
 }
 
 /* lg - screens */
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 768px) {
     
     /* columns  */
     .col-lg-1 {
@@ -362,7 +362,7 @@
 }
 
 /* xl - screens */
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 991px) {
 
     /* columns  */
     .col-xl-1 {
