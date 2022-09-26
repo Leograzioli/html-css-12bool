@@ -1,0 +1,33 @@
+.box {
+    height: 50px;
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box-lg{
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
+
+.box-green{
+    height: 60px;
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+    padding: 5px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+section {
+    margin-bottom: 1rem;
+}
